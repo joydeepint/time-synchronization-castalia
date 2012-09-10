@@ -1,0 +1,410 @@
+
+1.264849931571  SN.node[34].Application                  Sensed = 1.345
+1.264849931571  SN.node[34].Application                  Sending [Value reporting pck] of size 20 bytes to communication layer
+1.264849931571  SN.node[34].Communication.Routing        Received [Value reporting pck] from application layer
+1.264849931571  SN.node[34].Communication.Routing        Packet buffered from application layer, buffer state: 1/32
+1.896861415321  SN.node[2].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+1.896861415321  SN.node[4].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+1.896861415321  SN.node[9].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+1.896861415321  SN.node[11].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+1.896861415321  SN.node[17].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+1.94686291532   SN.node[2].Communication.Routing         Connected to 3 at level 1
+1.94686291532   SN.node[4].Communication.Routing         Connected to 3 at level 1
+1.94686291532   SN.node[9].Communication.Routing         Connected to 3 at level 1
+1.94686291532   SN.node[11].Communication.Routing        Connected to 3 at level 1
+1.94686291532   SN.node[17].Communication.Routing        Connected to 3 at level 1
+2.476612072477  SN.node[1].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+2.476612072477  SN.node[2].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+2.476612072477  SN.node[3].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+2.476612072477  SN.node[4].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+2.476612072477  SN.node[5].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+2.476612072477  SN.node[8].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+2.476612072477  SN.node[10].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+2.476612072477  SN.node[11].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+2.476612072477  SN.node[12].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+2.476612072477  SN.node[13].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+2.476612072477  SN.node[14].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+2.476612072477  SN.node[15].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+2.476612072477  SN.node[16].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+2.476612072477  SN.node[17].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+2.476612072477  SN.node[20].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+2.476612072477  SN.node[22].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+2.480541331594  SN.node[1].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+2.480541331594  SN.node[3].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+2.480541331594  SN.node[4].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+2.480541331594  SN.node[7].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+2.480541331594  SN.node[8].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+2.480541331594  SN.node[9].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+2.480541331594  SN.node[10].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+2.480541331594  SN.node[14].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+2.482170561616  SN.node[3].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+2.482170561616  SN.node[5].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+2.482170561616  SN.node[10].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+2.482170561616  SN.node[17].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+2.482170561616  SN.node[35].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+2.48635338144   SN.node[2].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+2.48635338144   SN.node[3].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+2.48635338144   SN.node[5].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+2.48635338144   SN.node[8].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+2.48635338144   SN.node[9].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+2.48635338144   SN.node[10].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+2.48635338144   SN.node[16].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+2.490500456768  SN.node[5].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+2.490500456768  SN.node[8].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+2.490500456768  SN.node[9].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+2.490500456768  SN.node[10].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+2.490500456768  SN.node[11].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+2.490500456768  SN.node[16].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+2.490500456768  SN.node[22].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+2.526613572476  SN.node[1].Communication.Routing         Connected to 3 at level 2
+2.526613572476  SN.node[5].Communication.Routing         Connected to 3 at level 2
+2.526613572476  SN.node[8].Communication.Routing         Connected to 3 at level 2
+2.526613572476  SN.node[10].Communication.Routing        Connected to 3 at level 2
+2.526613572476  SN.node[12].Communication.Routing        Connected to 3 at level 2
+2.526613572476  SN.node[13].Communication.Routing        Connected to 3 at level 2
+2.526613572476  SN.node[14].Communication.Routing        Connected to 3 at level 2
+2.526613572476  SN.node[15].Communication.Routing        Connected to 3 at level 2
+2.526613572476  SN.node[16].Communication.Routing        Connected to 3 at level 2
+2.526613572476  SN.node[20].Communication.Routing        Connected to 3 at level 2
+2.526613572476  SN.node[22].Communication.Routing        Connected to 3 at level 2
+2.530542831593  SN.node[7].Communication.Routing         Connected to 3 at level 2
+2.532172061615  SN.node[35].Communication.Routing        Connected to 3 at level 2
+3.086344445311  SN.node[6].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.086344445311  SN.node[8].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.086344445311  SN.node[13].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.086344445311  SN.node[18].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.086344445311  SN.node[19].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.086344445311  SN.node[20].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.086344445311  SN.node[21].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.086647227851  SN.node[4].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.086647227851  SN.node[10].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.086647227851  SN.node[17].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.086647227851  SN.node[23].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.087371760036  SN.node[14].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.087371760036  SN.node[15].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.087371760036  SN.node[19].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.087371760036  SN.node[21].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.087371760036  SN.node[24].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.087371760036  SN.node[26].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.087371760036  SN.node[27].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.087371760036  SN.node[28].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.087371760036  SN.node[29].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.087371760036  SN.node[30].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.087371760036  SN.node[31].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.087371760036  SN.node[35].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.087527662162  SN.node[0].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.087527662162  SN.node[1].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.087527662162  SN.node[2].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.087527662162  SN.node[3].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.087527662162  SN.node[6].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.087527662162  SN.node[13].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.091746043806  SN.node[16].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.091746043806  SN.node[20].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.091746043806  SN.node[21].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.091746043806  SN.node[28].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.091746043806  SN.node[29].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.091746043806  SN.node[33].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.091746043806  SN.node[34].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.09186470657   SN.node[4].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.09186470657   SN.node[10].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.09186470657   SN.node[11].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.092975189056  SN.node[0].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.092975189056  SN.node[1].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.092975189056  SN.node[2].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.092975189056  SN.node[3].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.092975189056  SN.node[4].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.092975189056  SN.node[6].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.092975189056  SN.node[7].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.092975189056  SN.node[9].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.092975189056  SN.node[12].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.092975189056  SN.node[13].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.092975189056  SN.node[14].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.092975189056  SN.node[15].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.092975189056  SN.node[19].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.092975189056  SN.node[22].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.092975189056  SN.node[23].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.094130695053  SN.node[1].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.094130695053  SN.node[6].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.094130695053  SN.node[7].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.094130695053  SN.node[8].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.094130695053  SN.node[9].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.094130695053  SN.node[12].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.094130695053  SN.node[14].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.094130695053  SN.node[18].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.094130695053  SN.node[19].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.094130695053  SN.node[24].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.096671078754  SN.node[0].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.096671078754  SN.node[2].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.096671078754  SN.node[3].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.096671078754  SN.node[5].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.096671078754  SN.node[6].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.096671078754  SN.node[7].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.096671078754  SN.node[8].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.096671078754  SN.node[13].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.096671078754  SN.node[14].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.096671078754  SN.node[26].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.097259095491  SN.node[6].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.097259095491  SN.node[8].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.097259095491  SN.node[9].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.097259095491  SN.node[13].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.097259095491  SN.node[14].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.097259095491  SN.node[16].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.097259095491  SN.node[18].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.097259095491  SN.node[19].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.097259095491  SN.node[25].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.097259095491  SN.node[26].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.097259095491  SN.node[29].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.097259095491  SN.node[32].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.098059026735  SN.node[2].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.098059026735  SN.node[3].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.098059026735  SN.node[4].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.098059026735  SN.node[5].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.098059026735  SN.node[7].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.098059026735  SN.node[9].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.098059026735  SN.node[11].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.098059026735  SN.node[15].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.098059026735  SN.node[16].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.098059026735  SN.node[17].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.098059026735  SN.node[23].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.101211857786  SN.node[8].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.101211857786  SN.node[9].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.101211857786  SN.node[10].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.101211857786  SN.node[13].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.101211857786  SN.node[14].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.101211857786  SN.node[16].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.101211857786  SN.node[20].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.101211857786  SN.node[21].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.101211857786  SN.node[22].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.101211857786  SN.node[24].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.101211857786  SN.node[26].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.101211857786  SN.node[27].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.101211857786  SN.node[28].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.101211857786  SN.node[29].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.101211857786  SN.node[33].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.107627668136  SN.node[5].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.107627668136  SN.node[8].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.107627668136  SN.node[14].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.107627668136  SN.node[15].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.107627668136  SN.node[16].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.107627668136  SN.node[17].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.107627668136  SN.node[20].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.107627668136  SN.node[21].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.107627668136  SN.node[23].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.107627668136  SN.node[26].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.107627668136  SN.node[27].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.107627668136  SN.node[28].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.107627668136  SN.node[29].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.107627668136  SN.node[33].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.107627668136  SN.node[34].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.13634594531   SN.node[6].Communication.Routing         Connected to 3 at level 3
+3.13634594531   SN.node[18].Communication.Routing        Connected to 3 at level 3
+3.13634594531   SN.node[19].Communication.Routing        Connected to 3 at level 3
+3.13634594531   SN.node[21].Communication.Routing        Connected to 3 at level 3
+3.13664872785   SN.node[23].Communication.Routing        Connected to 3 at level 3
+3.137373260035  SN.node[24].Communication.Routing        Connected to 3 at level 3
+3.137373260035  SN.node[26].Communication.Routing        Connected to 3 at level 3
+3.137373260035  SN.node[27].Communication.Routing        Connected to 3 at level 3
+3.137373260035  SN.node[28].Communication.Routing        Connected to 3 at level 3
+3.137373260035  SN.node[29].Communication.Routing        Connected to 3 at level 3
+3.137373260035  SN.node[30].Communication.Routing        Connected to 3 at level 3
+3.137373260035  SN.node[31].Communication.Routing        Connected to 3 at level 3
+3.137529162161  SN.node[0].Communication.Routing         Connected to 3 at level 3
+3.141747543805  SN.node[33].Communication.Routing        Connected to 3 at level 3
+3.141747543805  SN.node[34].Communication.Routing        Connected to 3 at level 3
+3.14726059549   SN.node[25].Communication.Routing        Connected to 3 at level 3
+3.14726059549   SN.node[32].Communication.Routing        Connected to 3 at level 3
+3.696308215386  SN.node[15].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.696308215386  SN.node[16].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.696308215386  SN.node[22].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.696308215386  SN.node[23].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.696308215386  SN.node[26].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.696308215386  SN.node[27].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.696308215386  SN.node[28].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.696308215386  SN.node[31].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.696308215386  SN.node[32].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.696308215386  SN.node[34].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.696308215386  SN.node[35].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.697821016175  SN.node[12].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.697821016175  SN.node[20].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.697821016175  SN.node[21].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.697821016175  SN.node[23].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.697821016175  SN.node[28].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.697821016175  SN.node[33].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.697821016175  SN.node[34].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.697821016175  SN.node[35].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.699194499283  SN.node[0].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.699194499283  SN.node[1].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.699194499283  SN.node[7].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.699194499283  SN.node[8].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.699194499283  SN.node[12].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.699194499283  SN.node[13].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.699194499283  SN.node[14].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.699194499283  SN.node[18].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.700540513743  SN.node[35].Communication.Routing        Received [Multipath rings routing data packet] from MAC layer
+3.700663095596  SN.node[14].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.700663095596  SN.node[24].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.700663095596  SN.node[26].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.700663095596  SN.node[30].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.701351222474  SN.node[1].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.701351222474  SN.node[6].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.701351222474  SN.node[7].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.701351222474  SN.node[9].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.701351222474  SN.node[21].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.702000864735  SN.node[13].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.702000864735  SN.node[15].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.702000864735  SN.node[16].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.702000864735  SN.node[18].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.702000864735  SN.node[19].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.702000864735  SN.node[25].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.702000864735  SN.node[30].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.702000864735  SN.node[31].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.702000864735  SN.node[34].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.705121915956  SN.node[16].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.705121915956  SN.node[22].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.705121915956  SN.node[23].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.705121915956  SN.node[28].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.705121915956  SN.node[29].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.705121915956  SN.node[32].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.705121915956  SN.node[33].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.705121915956  SN.node[35].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.705436352727  SN.node[6].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.705436352727  SN.node[7].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.705436352727  SN.node[8].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.705436352727  SN.node[12].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.705436352727  SN.node[13].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.705436352727  SN.node[14].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.705436352727  SN.node[19].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.705436352727  SN.node[24].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.705436352727  SN.node[26].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.705436352727  SN.node[30].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.705436352727  SN.node[31].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.706065439537  SN.node[3].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.706065439537  SN.node[8].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.706065439537  SN.node[10].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.706065439537  SN.node[16].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.706065439537  SN.node[17].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.706065439537  SN.node[21].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.706065439537  SN.node[22].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.706065439537  SN.node[29].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.706065439537  SN.node[33].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.706065439537  SN.node[34].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.707594625481  SN.node[13].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.707594625481  SN.node[14].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.707594625481  SN.node[15].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.707594625481  SN.node[16].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.707594625481  SN.node[19].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.707594625481  SN.node[21].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.707594625481  SN.node[26].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.707594625481  SN.node[28].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.707594625481  SN.node[32].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.707594625481  SN.node[34].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.708011177256  SN.node[12].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.708011177256  SN.node[24].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.709833508323  SN.node[5].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.709833508323  SN.node[7].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.709833508323  SN.node[20].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.709833508323  SN.node[21].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.709833508323  SN.node[24].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.709833508323  SN.node[25].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.709833508323  SN.node[26].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.709833508323  SN.node[27].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.709833508323  SN.node[29].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.709833508323  SN.node[31].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.709833508323  SN.node[33].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.709833508323  SN.node[34].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.713556240586  SN.node[6].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.713556240586  SN.node[8].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.713556240586  SN.node[9].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.713556240586  SN.node[12].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.713556240586  SN.node[13].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.713556240586  SN.node[14].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.713556240586  SN.node[18].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.713556240586  SN.node[20].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.713556240586  SN.node[21].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.713556240586  SN.node[24].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.713556240586  SN.node[25].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.713556240586  SN.node[26].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.713556240586  SN.node[27].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.713556240586  SN.node[28].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.713556240586  SN.node[31].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.714641341956  SN.node[10].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.714641341956  SN.node[14].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.714641341956  SN.node[16].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.714641341956  SN.node[20].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.714641341956  SN.node[21].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.714641341956  SN.node[22].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.714641341956  SN.node[26].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.714641341956  SN.node[27].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.714641341956  SN.node[29].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.714641341956  SN.node[33].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.714641341956  SN.node[34].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.714641341956  SN.node[35].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.716295399621  SN.node[1].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.716295399621  SN.node[14].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.716295399621  SN.node[15].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.716295399621  SN.node[18].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.716295399621  SN.node[19].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.716295399621  SN.node[20].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.716295399621  SN.node[22].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.716295399621  SN.node[23].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.716295399621  SN.node[25].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.716295399621  SN.node[26].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.716295399621  SN.node[27].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.716295399621  SN.node[28].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.716295399621  SN.node[29].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.716295399621  SN.node[31].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.716295399621  SN.node[34].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.724404587411  SN.node[1].Communication.Routing         Received [Multipath rings routing setup packet] from MAC layer
+3.724404587411  SN.node[15].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.724404587411  SN.node[18].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.724404587411  SN.node[19].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.724404587411  SN.node[20].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.724404587411  SN.node[21].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.724404587411  SN.node[22].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.724404587411  SN.node[25].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.724404587411  SN.node[27].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.724404587411  SN.node[30].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.724404587411  SN.node[31].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.724404587411  SN.node[32].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.724404587411  SN.node[33].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.730879956735  SN.node[12].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.730879956735  SN.node[13].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.730879956735  SN.node[18].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.730879956735  SN.node[19].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.730879956735  SN.node[20].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.730879956735  SN.node[21].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.730879956735  SN.node[24].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.730879956735  SN.node[26].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.730879956735  SN.node[27].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.730879956735  SN.node[30].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+3.730879956735  SN.node[31].Communication.Routing        Received [Multipath rings routing setup packet] from MAC layer
+5.57885174589   SN.node[31].Application                  Sensed = 1.701
+5.57885174589   SN.node[31].Application                  Sending [Value reporting pck] of size 20 bytes to communication layer
+5.57885174589   SN.node[31].Communication.Routing        Received [Value reporting pck] from application layer
+5.57885174589   SN.node[31].Communication.Routing        Packet buffered from application layer, buffer state: 1/32
+6.141865167107  SN.node[14].Communication.Routing        Received [Multipath rings routing data packet] from MAC layer
+6.141865167107  SN.node[18].Communication.Routing        Received [Multipath rings routing data packet] from MAC layer
+6.141865167107  SN.node[24].Communication.Routing        Received [Multipath rings routing data packet] from MAC layer
+6.141865167107  SN.node[25].Communication.Routing        Received [Multipath rings routing data packet] from MAC layer
+6.141865167107  SN.node[26].Communication.Routing        Received [Multipath rings routing data packet] from MAC layer
+6.141865167107  SN.node[27].Communication.Routing        Received [Multipath rings routing data packet] from MAC layer
+6.141865167107  SN.node[30].Communication.Routing        Received [Multipath rings routing data packet] from MAC layer
+6.141865167107  SN.node[32].Communication.Routing        Received [Multipath rings routing data packet] from MAC layer
+6.749347106403  SN.node[1].Communication.Routing         Received [Multipath rings routing data packet] from MAC layer
+6.749347106403  SN.node[6].Communication.Routing         Received [Multipath rings routing data packet] from MAC layer
+6.749347106403  SN.node[7].Communication.Routing         Received [Multipath rings routing data packet] from MAC layer
+6.749347106403  SN.node[8].Communication.Routing         Received [Multipath rings routing data packet] from MAC layer
+6.749347106403  SN.node[9].Communication.Routing         Received [Multipath rings routing data packet] from MAC layer
+6.749347106403  SN.node[12].Communication.Routing        Received [Multipath rings routing data packet] from MAC layer
+6.749347106403  SN.node[13].Communication.Routing        Received [Multipath rings routing data packet] from MAC layer
+6.749347106403  SN.node[15].Communication.Routing        Received [Multipath rings routing data packet] from MAC layer
+6.749347106403  SN.node[18].Communication.Routing        Received [Multipath rings routing data packet] from MAC layer
+6.749347106403  SN.node[19].Communication.Routing        Received [Multipath rings routing data packet] from MAC layer
+6.749347106403  SN.node[20].Communication.Routing        Received [Multipath rings routing data packet] from MAC layer
+6.749347106403  SN.node[21].Communication.Routing        Received [Multipath rings routing data packet] from MAC layer
+6.749347106403  SN.node[22].Communication.Routing        Received [Multipath rings routing data packet] from MAC layer
+6.749347106403  SN.node[26].Communication.Routing        Received [Multipath rings routing data packet] from MAC layer
+6.749347106403  SN.node[27].Communication.Routing        Received [Multipath rings routing data packet] from MAC layer
+6.749347106403  SN.node[28].Communication.Routing        Received [Multipath rings routing data packet] from MAC layer
+7.358500367864  SN.node[2].Communication.Routing         Received [Multipath rings routing data packet] from MAC layer
+7.358500367864  SN.node[3].Communication.Routing         Received [Multipath rings routing data packet] from MAC layer
