@@ -1,0 +1,17 @@
+Castalia| what:General (1)
+Castalia| when:2012-06-16 18:39
+Castalia| label:General
+Assigned runID=General-0-20120616-18:39:01-14074
+Setting up network `SN'...
+Initializing...
+
+Running simulation...
+** Event #1   T=0   Elapsed: 0.000s (0m 00s)  0% completed   ev/sec=0
+** Event #13493   T=7.358500367864   Elapsed: 0.055s (0m 00s)  1% completed   ev/sec=245327
+
+<!> Error in module (MultipathRingsRouting) SN.node[3].Communication.Routing (id=71) at event #13493, t=7.358500367864: check_and_cast(): cannot cast (ValueReportingDataPacket *)SN.node[3].Communication.Routing.Value reporting pck to type 'syncPacket *'.
+
+undisposed object: (MultipathRingsRoutingPacket) SN.node[3].Communication.Routing.Multipath rings routing data packet -- check module destructor
+undisposed object: (ValueReportingDataPacket) SN.node[3].Communication.Routing.Value reporting pck -- check module destructor
+
+End.
