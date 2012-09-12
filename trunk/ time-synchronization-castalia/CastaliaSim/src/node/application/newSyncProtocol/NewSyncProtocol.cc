@@ -129,9 +129,11 @@ void NewSyncProtocol::fromNetworkLayer(ApplicationPacket * rcvPacket,
         // set timer for node sleep
         sleepTime = maxSleepTime(nextSync());
         if (canSleep)
+        {
             setTimer(RCV_SYNC, sleepTime - 1);
         trace() << "Max Sleep Time: " << sleepTime;
         toNetworkLayer(createRadioCommand(SET_STATE, SLEEP));
+        }
 
         if (numSync > 2) {
             offset_info new_info_offset;
