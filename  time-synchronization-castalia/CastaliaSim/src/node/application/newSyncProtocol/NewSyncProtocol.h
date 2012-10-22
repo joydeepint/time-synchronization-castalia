@@ -44,6 +44,7 @@ private:
     double relativeDrift;
     double weight;
     double weightMovingAVG;
+    double lastMovingAVG;
 
 protected:
     void startup();

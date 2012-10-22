@@ -2,7 +2,7 @@
 # OMNeT++/OMNEST Makefile for CastaliaBin
 #
 # This file was generated with the command:
-#  opp_makemake -f -r --deep -o CastaliaBin -u Cmdenv -P /home/paulo/Omnet/omnetpp-4.2.2/samples/CastaliaSim -M release -X Simulations -X out -X bin
+#  opp_makemake -f -r --deep -o CastaliaBin -u Cmdenv -P /home/paulo/Eclipse/workspace/CastaliaSim -M release -X Simulations -X out -X bin
 #
 
 # Name of target to be created (-o option)
@@ -16,20 +16,6 @@ USERIF_LIBS = $(CMDENV_LIBS)
 # C++ include paths (with -I)
 INCLUDE_PATH = \
     -I. \
-    -Ieclox5 \
-    -Ieclox5/html \
-    -Ieclox5/html/search \
-    -Ieclox5/latex \
-    -Ieclox6 \
-    -Ieclox6/html \
-    -Ieclox6/html/search \
-    -Ieclox6/latex \
-    -Ieclox8 \
-    -Ieclox8/html \
-    -Ieclox8/html/search \
-    -Ieclox9 \
-    -Ieclox9/html \
-    -Ieclox9/html/search \
     -Isrc \
     -Isrc/helpStructures \
     -Isrc/node \
@@ -227,20 +213,6 @@ clean:
 	-rm -rf $O
 	-rm -f CastaliaBin CastaliaBin.exe libCastaliaBin.so libCastaliaBin.a libCastaliaBin.dll libCastaliaBin.dylib
 	-rm -f ./*_m.cc ./*_m.h
-	-rm -f eclox5/*_m.cc eclox5/*_m.h
-	-rm -f eclox5/html/*_m.cc eclox5/html/*_m.h
-	-rm -f eclox5/html/search/*_m.cc eclox5/html/search/*_m.h
-	-rm -f eclox5/latex/*_m.cc eclox5/latex/*_m.h
-	-rm -f eclox6/*_m.cc eclox6/*_m.h
-	-rm -f eclox6/html/*_m.cc eclox6/html/*_m.h
-	-rm -f eclox6/html/search/*_m.cc eclox6/html/search/*_m.h
-	-rm -f eclox6/latex/*_m.cc eclox6/latex/*_m.h
-	-rm -f eclox8/*_m.cc eclox8/*_m.h
-	-rm -f eclox8/html/*_m.cc eclox8/html/*_m.h
-	-rm -f eclox8/html/search/*_m.cc eclox8/html/search/*_m.h
-	-rm -f eclox9/*_m.cc eclox9/*_m.h
-	-rm -f eclox9/html/*_m.cc eclox9/html/*_m.h
-	-rm -f eclox9/html/search/*_m.cc eclox9/html/search/*_m.h
 	-rm -f src/*_m.cc src/*_m.h
 	-rm -f src/helpStructures/*_m.cc src/helpStructures/*_m.h
 	-rm -f src/node/*_m.cc src/node/*_m.h
@@ -278,7 +250,7 @@ cleanall: clean
 	-rm -rf $(PROJECT_OUTPUT_DIR)
 
 depend:
-	$(MAKEDEPEND) $(INCLUDE_PATH) -f Makefile -P\$$O/ -- $(MSG_CC_FILES)  ./*.cc eclox5/*.cc eclox5/html/*.cc eclox5/html/search/*.cc eclox5/latex/*.cc eclox6/*.cc eclox6/html/*.cc eclox6/html/search/*.cc eclox6/latex/*.cc eclox8/*.cc eclox8/html/*.cc eclox8/html/search/*.cc eclox9/*.cc eclox9/html/*.cc eclox9/html/search/*.cc src/*.cc src/helpStructures/*.cc src/node/*.cc src/node/application/*.cc src/node/application/bridgeTest/*.cc src/node/application/connectivityMap/*.cc src/node/application/ftsp/*.cc src/node/application/newSyncProtocol/*.cc src/node/application/simpleAggregation/*.cc src/node/application/throughputTest/*.cc src/node/application/valuePropagation/*.cc src/node/application/valueReporting/*.cc src/node/communication/*.cc src/node/communication/mac/*.cc src/node/communication/mac/baselineBanMac/*.cc src/node/communication/mac/bypassMac/*.cc src/node/communication/mac/mac802154/*.cc src/node/communication/mac/tMac/*.cc src/node/communication/mac/tunableMac/*.cc src/node/communication/radio/*.cc src/node/communication/routing/*.cc src/node/communication/routing/bypassRouting/*.cc src/node/communication/routing/multipathRingsRouting/*.cc src/node/mobilityManager/*.cc src/node/mobilityManager/lineMobilityManager/*.cc src/node/mobilityManager/noMobilityManager/*.cc src/node/resourceManager/*.cc src/node/sensorManager/*.cc src/physicalProcess/*.cc src/physicalProcess/carsPhysicalProcess/*.cc src/physicalProcess/customizablePhysicalProcess/*.cc src/wirelessChannel/*.cc
+	$(MAKEDEPEND) $(INCLUDE_PATH) -f Makefile -P\$$O/ -- $(MSG_CC_FILES)  ./*.cc src/*.cc src/helpStructures/*.cc src/node/*.cc src/node/application/*.cc src/node/application/bridgeTest/*.cc src/node/application/connectivityMap/*.cc src/node/application/ftsp/*.cc src/node/application/newSyncProtocol/*.cc src/node/application/simpleAggregation/*.cc src/node/application/throughputTest/*.cc src/node/application/valuePropagation/*.cc src/node/application/valueReporting/*.cc src/node/communication/*.cc src/node/communication/mac/*.cc src/node/communication/mac/baselineBanMac/*.cc src/node/communication/mac/bypassMac/*.cc src/node/communication/mac/mac802154/*.cc src/node/communication/mac/tMac/*.cc src/node/communication/mac/tunableMac/*.cc src/node/communication/radio/*.cc src/node/communication/routing/*.cc src/node/communication/routing/bypassRouting/*.cc src/node/communication/routing/multipathRingsRouting/*.cc src/node/mobilityManager/*.cc src/node/mobilityManager/lineMobilityManager/*.cc src/node/mobilityManager/noMobilityManager/*.cc src/node/resourceManager/*.cc src/node/sensorManager/*.cc src/physicalProcess/*.cc src/physicalProcess/carsPhysicalProcess/*.cc src/physicalProcess/customizablePhysicalProcess/*.cc src/wirelessChannel/*.cc
 
 # DO NOT DELETE THIS LINE -- make depend depends on it.
 $O/src/helpStructures/CastaliaModule.o: src/helpStructures/CastaliaModule.cc \
