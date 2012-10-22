@@ -60,7 +60,6 @@ void FTSP::fromNetworkLayer(ApplicationPacket * rcvPacket, const char *source,
     currentOffset = sp->getRcvTime() - sp->getTrsTime();
     lrOffset = (sp->getRcvTime() + resMgrModule->getOffset()
             + resMgrModule->getDriftCompensationAdjust()) - sp->getTrsTime();
-    //+  resMgrModule->getDriftCompensationAdjust()
 
     trace() << "clock before set: " << getClock();
     setClock(currentOffset);
@@ -119,8 +118,6 @@ void FTSP::fromNetworkLayer(ApplicationPacket * rcvPacket, const char *source,
         intercept = (sumLocalTime - slope * sumGlobalTime) / numEntries;
 
         double skew = (lrOffset - intercept) / sp->getTrsTime();
-
-        //slope = (numEntries*sumGlobal_Local - (sumGlobalTime * sumLocalTime)) / ((numEntries * (sumGlobalTime * sumGlobalTime)) - (sumGlobalTime * sumGlobalTime));
 
         trace() << "slope: " << slope;
         trace() << "intercept: " << intercept;
