@@ -1,0 +1,1 @@
+Implementation over Castalia Simulator of a time synchronization protocol design for BANs. The node clock was modified to support drift variation during simulation time.
